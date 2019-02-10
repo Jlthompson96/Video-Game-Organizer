@@ -75,13 +75,5 @@ public class VideoGameLibraryOrganizer {
             System.out.println("You entered 1 game");
         }
   
-    }
-    /**
-     * Sort ArrayList in Alphabetical Order
-     * @param gameInfo ArrayList
-     */
-    public static void alphabatizeArray(ArrayList<VideoGame> gameInfo){
-        
-    }
-    
+    }    
 }
